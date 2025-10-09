@@ -41,6 +41,7 @@
 
 ## Cpu Scheduling Algorithms
   * [Fcfs Scheduling](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/cpu_scheduling_algorithms/fcfs_scheduling.cpp)
+  * [Non Preemptive Sjf Scheduling](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/cpu_scheduling_algorithms/non_preemptive_sjf_scheduling.cpp)
 
 ## Data Structures
   * [Avltree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/data_structures/avltree.cpp)
@@ -120,6 +121,7 @@
   * [Shortest Common Supersequence](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/dynamic_programming/shortest_common_supersequence.cpp)
   * [Subset Sum Dynamic](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/dynamic_programming/subset_sum_dynamic.cpp)
   * [Trapped Rainwater](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/dynamic_programming/trapped_rainwater.cpp)
+  * [Trapped Rainwater2](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/dynamic_programming/trapped_rainwater2.cpp)
   * [Tree Height](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/dynamic_programming/tree_height.cpp)
   * [Unbounded 0 1 Knapsack](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/dynamic_programming/unbounded_0_1_knapsack.cpp)
   * [Word Break](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/dynamic_programming/word_break.cpp)
